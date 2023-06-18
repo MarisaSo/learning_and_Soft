@@ -1,0 +1,23 @@
+name: learning_env
+channels:
+- conda-forge
+dependencies:
+- python
+- numpy
+- pandas
+- seaborn
+- bokeh
+- matplotlib
+- scikit-learn
+- umap-learn
+- plotly
+- cufflinks-py
+- flake8
+- ipykernel
+- jupyter
+- scipy
+- category_encoders
+- xgboost 
+- geopy
+
+
